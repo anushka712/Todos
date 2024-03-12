@@ -1,2 +1,2 @@
 # TodoApp
-TodoApp using the html, CSS, JS and react.
+TodoApp using  html, CSS, JS and react.
