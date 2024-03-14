@@ -45,7 +45,7 @@ function App() {
         </div>
 
         <div className='flex flex-wrap gap-y-3'>
-        {/* Todo items  vgvg */}
+        {/* Todo items   */}
         </div>
 
       </div>
