@@ -9,7 +9,7 @@ function App() {
   const [todos, setTodos] = useState([])
 
   const addTodo = (todo) => {
-    setTodos((prev) => [{...todo, id: Date.now()}, ...prev]) 
+    setTodos((prev) => [ ...prev, {id: Date.now(), ...todo},]) 
   }
 
   const updatedTodo = (id,todo) => {
@@ -48,7 +48,7 @@ function App() {
       <TodoForm/>
         </div>
 
-        <div className='flex flex-wrap gap-y-3'>
+        <div className='flex flex-wrap  gap-y-3'>
         {/* Todo items   */}
         {todos.map( (todo) =>(
           <div key={todo.id} 
