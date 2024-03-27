@@ -1,4 +1,4 @@
-Tdodo-App  using HTML, Tailwind CSS, JavaScript and React.
+Tdodos  using HTML, Tailwind CSS, JavaScript and React.
 
 
 # React + Vite
