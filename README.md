@@ -1,4 +1,4 @@
-Tdodos  using HTML, Tailwind CSS, JavaScript and React.
+Todos  using HTML, Tailwind CSS, JavaScript and React.
 
 
 # React + Vite
