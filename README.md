@@ -13,5 +13,5 @@ To install the project, follow these steps:
 
 
 Or you can access the project through this link-
-  https://todo-app-anushka.vercel.app/
+ https://todo-app-anushka.vercel.app/
 
