@@ -1,13 +1,17 @@
 Todos  using HTML, Tailwind CSS, JavaScript and React.
 
+Installation-
+To install the project, follow these steps:
+  1.Clone the repository:
+    https://github.com/anushka712/Todos.git
+    
+  2.Install dependencies:
+    npm install
 
-# React + Vite
+  3.Start the server:
+    npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Or you can access the project through this link-
+  https://todo-app-anushka.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
->>>>>>> f85b4c9f7dfc100de0c204dfafa6ae4ecbc6bab2
