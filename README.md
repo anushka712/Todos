@@ -1,17 +1,27 @@
-Todos  using HTML, Tailwind CSS, JavaScript and React.
+# To-Do Website
 
-Installation-
-To install the project, follow these steps:
-        1.Clone the repository:
-    https://github.com/anushka712/Todos.git
-    
-    2.Install dependencies:
-    npm install
+Welcome to the To-Do website! This project is built using React, HTML, CSS, and JavaScript to provide a user-friendly platform for managing tasks.
 
-    3.Start the server:
-    npm run dev
+## How to access
 
+   You can visit the live site at:
+   [https://todo-app-anushka.vercel.app/]
 
-Or you can access the project through this link-
- https://todo-app-anushka.vercel.app/
+## Installation
+
+To run this project locally, follow these steps:
+
+**Steps:**
+
+1. Clone the repository: `git clone https://github.com/anushka712/Todos.git` 
+
+2. Navigate the project directory:`cd Todos`
+
+3. Install dependencies:`npm install`
+
+4. Start the server:`npm run dev`
+
+![Todos](todos.png)
+
+   
 
